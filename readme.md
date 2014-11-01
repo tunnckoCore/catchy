@@ -13,9 +13,10 @@ $ npm install catchy
 #### catchy(fns(value[, [resolve[, reject]]), end(err, res))
 - `fns` **{Array}** with async/sync functions
   + `value` **{Anything}** that are from previous function's `.resolve`
-  + `resolve` **{Function}** that send some value to next function
-  + `reject` **{Function}** that throw some error to end
+  + `resolve` **{Function}** that send some value to next function `.resolve('value for next fn')`
+  + `reject` **{Function}** that throw some error to end `.reject(new Error('some err'))`
 - `end` **{Function}** function that will be called when `error` (rejected), or complete successful
+  + `err` can be intanceof Error or message provided from `.reject`
 
 ## Usage
 > Some example, also see [example.js](./example.js). Try to fail it to see behaving. :)

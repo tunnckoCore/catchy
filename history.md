@@ -1,3 +1,6 @@
+## v1.0.1 / November 1, 2014
+- update readme, travis
+
 ## v1.0.0 / November 1, 2014
 - initial release
 
