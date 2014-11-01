@@ -1,3 +1,6 @@
+## v1.0.2 / November 1, 2014
+- update description, pkg.json
+
 ## v1.0.1 / November 1, 2014
 - update readme, travis
 

@@ -1,5 +1,5 @@
 # catchy [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Dependency Status][depstat-img]][depstat-url]
-> Promise-like async control flow library, without so much abstraction.
+> Promise-like async parallel control flow library, without so much abstraction.
 
 ## Install [![Nodei.co stats][npmjs-install]][npmjs-url]
 > Install with [npm](https://npmjs.org)

@@ -1,7 +1,7 @@
 {
   "name": "catchy",
-  "version": "1.0.0",
-  "description": "Promise-like async control flow library, without so much abstraction.",
+  "version": "1.0.2",
+  "description": "Promise-like async parallel control flow library, without so much abstraction.",
   "main": "index.js",
   "scripts": {
     "lint": "npm install && ./node_modules/.bin/jshint ./*.js",
