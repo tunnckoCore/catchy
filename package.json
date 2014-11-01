@@ -1,0 +1,40 @@
+{
+  "name": "catchy",
+  "version": "1.0.0",
+  "description": "Promise-like async control flow library, without so much abstraction.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npm install && ./node_modules/.bin/jshint ./*.js",
+    "test": "node example.js"
+  },
+  "author": {
+    "name": "Charlike Make Reagent",
+    "email": "mameto_100@mail.bg",
+    "url": "https://github.com/tunnckoCore",
+    "twitter": "https://twitter.com/tunnckoCore"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tunnckoCore/catchy.git"
+  },
+  "keywords": [
+    "promise",
+    "promise-like",
+    "async",
+    "control",
+    "flow",
+    "control flow",
+    "async flow",
+    "promises",
+    "native"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "*",
+    "log-symbols": "*"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/tunnckoCore/catchy/blob/master/license.md"
+  }]
+}
