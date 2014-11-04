@@ -1,6 +1,6 @@
 {
   "name": "catchy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Promise-like async parallel control flow library, without so much abstraction.",
   "main": "index.js",
   "scripts": {

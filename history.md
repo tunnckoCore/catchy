@@ -1,3 +1,8 @@
+## v1.0.3 / November 4, 2014
+- forgot npm publish
+- first release tag
+- add `v0.11` to travis
+
 ## v1.0.2 / November 1, 2014
 - update description, pkg.json
 
